@@ -9,6 +9,8 @@ export default function FormPage() {
 
     const handleSubmit = (event: any) => {
         event.preventDefault();
+
+        alert(`Username: ${userName}\nEmail: ${email}\nPassword: ${password}`);
     
 
         setName("");

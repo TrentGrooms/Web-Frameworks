@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "app/components/card.tsx"  ],
+, "app/components/card.tsx", "../form-app/app/form.tsx"  ],
   "exclude": ["node_modules"]
 }
